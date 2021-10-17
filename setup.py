@@ -7,7 +7,7 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='Affirmations', 
-    version='0.0.6',
+    version='0.0.7',
     description='Randomly adds affirming print statements to functions.',
     long_description=long_description,
     long_description_content_type='text/markdown', 
@@ -19,7 +19,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3 :: Only',
     ],
-    keywords='Self Care',
+    keywords='Self-care, Self-compassion',
     package_dir={'': 'src'},
     packages=find_packages(where='src'),
     python_requires='>=3.6',

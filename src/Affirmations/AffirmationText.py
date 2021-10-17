@@ -19,15 +19,30 @@ affirmations = [
     "Five! Six! Seven! Eight! What coder does this code appreciate!? You! You! Gooooo you!",
     "I think you're neat!",
     "High five!!!",
-    "If you were a president, you'd be Code-braham Lincoln",
+    "If you were an American president, you'd be Code-braham Lincoln",
     "Great job! Go get a coffee",
     "\U0001F44D\U0001F44D\U0001F44D\U0001F44D\U0001F44D\U0001F44D",
     "If I had hands, you'd be getting a high five",
     "If I could rearrange the alphabet I would put 'U' 'R' 'GR8' together. Then I would learn what an alphabet is.",
     "\U0001F525\U0001F525\U0001F525 Your Code \U0001F525\U0001F525\U0001F525",
-    "Woo hoo! Time to celebrate!"
+    "Woo hoo! Time to celebrate!",
+    "Live, Laugh, Love, Code.",
+    "You're the bee's knees",
+    "Boom! Awesome code!",
+    "You deserve a ninja turtle named after you",
+    "10 out of 10 dentists would recommend you",
+    "\U0001F60E",
+    "\U0001FAF5\U0001F4BB\U0001F4C8\U0001F600\U0001F30E",
+    "It ran! Time to celebrate \U0001F942",
+    "Your code ran! Weeeee!",
+    "If this were the bachelor(ette) your code would get a rose",
+    "What's it like to be so amazing?",
+    "Hey! Call up that friend you've been meaning to hang out with.",
+    "Don't stop believing in yourself!",
+    "Don't stop ever not stopping to never stop being awesome",
+    "You did so great, you should look up pictures of puppies",
+    "This is better than opening a Nintendo 64 on Christmas morning 1996",
+    "**celebratory karate moves**",
+    "You're making the world a better place!",
+    "You should twitch stream yourself coding"
 ]
-
-
-if __name__ == "__main__":
-    print(affirmations[-1])
