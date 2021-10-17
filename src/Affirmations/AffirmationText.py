@@ -10,5 +10,6 @@ affirmations = [
     "Did you ever know that you're my hero?",
     "Lookin' good.",
     "You're on your way to glory",
-    "You can do it!"
+    "You can do it!",
+    "Coding is hard! And you did great!"
 ]
