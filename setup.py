@@ -7,7 +7,7 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='Affirmations', 
-    version='0.0.7',
+    version='0.0.8',
     description='Randomly adds affirming print statements to functions.',
     long_description=long_description,
     long_description_content_type='text/markdown', 
