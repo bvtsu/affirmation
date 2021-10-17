@@ -4,6 +4,7 @@ A module that gives you a little bump of encouragement.
 
 ## Requirements
 - A positive attitude
+- A can-do spirit
 
 ## Installation
 
