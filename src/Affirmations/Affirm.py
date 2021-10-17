@@ -1,5 +1,9 @@
 from random import choice
-from AffirmationText import affirmations as affirmations
+try:
+    from AffirmationText import affirmations as affirmations
+except:
+    from Affirmations.AffirmationText import affirmations as affirmations
+
 
 def affirm(function):
     def wrapper():
