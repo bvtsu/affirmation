@@ -44,5 +44,16 @@ affirmations = [
     "This is better than opening a Nintendo 64 on Christmas morning 1996",
     "**celebratory karate moves**",
     "You're making the world a better place!",
-    "You should twitch stream yourself coding"
+    "You should twitch stream yourself coding",
+    "You got this! :)",
+    "Crushin' it!",
+    "Amazing!",
+    "Ayyyyyyy! Well done!",
+    "Awwwwwwwwwyeah!",
+    "Don't stop believing, and hold onto that feeling!",
+    "You're definitely making your way downtown!",
+    "I'd walk a thousand miles just to see your code!",
+    "Sick moves, fam!",
+    "You da GOAT!",
+    "This code is FIYAH, and so are you!"
 ]
