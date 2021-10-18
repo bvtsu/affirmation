@@ -6,12 +6,11 @@ except:
 
 
 def affirm(function):
-    def wrapper():
-        func = function()
+    def wrapper(*args):
+        func = function(*args)
         print(choice(affirmations))
         return func
     return wrapper
 
-
 if __name__ == "__main__":
-    print(affirmations)
+    pass
