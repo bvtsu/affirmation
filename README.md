@@ -19,8 +19,12 @@ Decorate any function to get a random affirmation printed to stdout every time t
 ```
 from Affirmations import affirm
 
-@affirm
+@affirm() # prints an affirmation to stdout 100% of the time this function is run
 def hello_world():
+    print("hello")
+
+@affirm(0.2) # prints an affirmation to stdout 20% of the time this function is run
+def hello_world2():
     print("hello")
 
 hello_world()

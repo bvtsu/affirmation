@@ -6,7 +6,7 @@ sys.path.insert(1, parentdir)
 from Affirmations import affirm
 from Affirmations.AffirmationText import affirmations
 
-@affirm
+@affirm()
 def testFunc():
     return("X")
 
